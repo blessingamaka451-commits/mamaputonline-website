@@ -211,7 +211,7 @@ a{
     .hero-bg {
     position: absolute;
     inset: 0;
-    background-image: url('./Images/hero-bg.jpg'); /* swap with your image */
+    background-image: url('./images/hero-bg.jpg'); /* swap with your image */
     background-size: cover;
     background-position: center;
     z-index: 0;
